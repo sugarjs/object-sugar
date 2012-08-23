@@ -5,8 +5,8 @@
     "version": "0.1.0",
 
     "dependencies": {
-        "funkit": "== 0.4.6",
-        "suite.js": "== 0.3.1"
+        "funkit": "== 0.4.8",
+        "suite.js": "== 0.3.2"
     },
 
     "main": "./lib/object-sugar.js",
