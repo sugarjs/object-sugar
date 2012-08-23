@@ -1,0 +1,30 @@
+{
+    "name": "object-sugar",
+    "description": "Sugary bits for JS Object",
+    "author": "Juho Vepsalainen <bebraw@gmail.com>",
+    "version": "0.1.0",
+
+    "dependencies": {
+        "funkit": "== 0.4.6"
+    },
+
+    "main": "./lib/object-sugar.js",
+
+    "repository": {
+        "type": "git",
+        "url": "https://bebraw@github.com/bebraw/object-sugar"
+    },
+
+    "homepage": "https://github.com/bebraw/object-sugar",
+
+    "bugs": {
+        "url": "https://github.com/bebraw/object-sugar/issues"
+    },
+
+    "keywords": ["object"],
+
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/bebraw/object-sugar/blob/master/LICENSE"
+    }]
+}
