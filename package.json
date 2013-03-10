@@ -2,7 +2,7 @@
     "name": "object-sugar",
     "description": "Sugary bits for JS Object",
     "author": "Juho Vepsalainen <bebraw@gmail.com>",
-    "version": "0.1.0",
+    "version": "0.2.0",
 
     "dependencies": {
         "funkit": "0.7.4",
