@@ -5,8 +5,12 @@
     "version": "0.1.0",
 
     "dependencies": {
-        "funkit": "== 0.5.0",
-        "suite.js": "== 0.3.5"
+        "funkit": "0.7.4",
+        "is-js": "0.1.1"
+    },
+
+    "devDependencies": {
+        "sugar-spec": "0.1.1"
     },
 
     "main": "./lib/object-sugar.js",
@@ -20,6 +24,10 @@
 
     "bugs": {
         "url": "https://github.com/bebraw/object-sugar/issues"
+    },
+
+    "scripts": {
+        "test": "node. /tests.js"
     },
 
     "keywords": ["object"],
