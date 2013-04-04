@@ -5,12 +5,13 @@
     "version": "0.2.1",
 
     "dependencies": {
+        "async": "0.2.6",
         "funkit": "0.7.4",
         "is-js": "0.1.1"
     },
 
     "devDependencies": {
-        "sugar-spec": "0.1.1"
+        "sugar-spec": "git://github.com/bebraw/sugar-spec.git"
     },
 
     "main": "./lib/object-sugar.js",
