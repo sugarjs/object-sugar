@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/bebraw/object-sugar.png)](http://travis-ci.org/bebraw/object-sugar)
 # object-sugar - Sugary bits for JS Object
 
 This library is a sibling of
