@@ -11,7 +11,7 @@
     },
 
     "devDependencies": {
-        "sugar-spec": "git://github.com/bebraw/sugar-spec.git"
+        "sugar-spec": "0.2.1"
     },
 
     "main": "./lib/object-sugar.js",
