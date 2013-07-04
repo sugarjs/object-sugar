@@ -11,7 +11,7 @@
     },
 
     "devDependencies": {
-        "sugar-spec": "0.2.1"
+        "sugar-spec": "0.3.0"
     },
 
     "main": "./lib/object-sugar.js",
