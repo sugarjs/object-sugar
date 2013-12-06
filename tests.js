@@ -7,5 +7,7 @@ var sugar = require('./lib/object-sugar');
 main();
 
 function main() {
-    spec(sugar);
+    spec({
+        sugar: sugar
+    });
 }
