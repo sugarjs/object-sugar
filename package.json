@@ -9,7 +9,7 @@
     "is-js": "0.1.1"
   },
   "devDependencies": {
-    "sugar-spec": "0.4.0"
+    "sugar-spec": "0.5.2"
   },
   "main": "./lib/object-sugar.js",
   "repository": {
