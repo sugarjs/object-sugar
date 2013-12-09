@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 var spec = require('sugar-spec');
 
-var sugar = require('./lib/object-sugar');
+var sugar = require('./');
 
 
 main();
