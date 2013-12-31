@@ -12,7 +12,7 @@
     "annofp": "0.2.1"
   },
   "devDependencies": {
-    "sugar-spec": "0.8.2"
+    "sugar-spec": "0.8.3"
   },
   "main": "./lib",
   "repository": {
