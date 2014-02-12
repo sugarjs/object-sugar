@@ -9,7 +9,8 @@
     "change-case": "1.0.4",
     "annois": "0.3.0",
     "annozip": "0.2.1",
-    "annofp": "0.2.1"
+    "annofp": "0.2.1",
+    "extend": "~1.2.1"
   },
   "devDependencies": {
     "sugar-spec": "0.8.3"
