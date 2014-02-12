@@ -2,7 +2,7 @@
   "name": "object-sugar",
   "description": "Sugary bits for JS Object",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "dependencies": {
     "async": "0.2.9",
     "require-dir": "0.1.0",
