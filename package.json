@@ -10,7 +10,8 @@
     "annois": "0.3.0",
     "annozip": "0.2.1",
     "annofp": "0.2.1",
-    "extend": "~1.2.1"
+    "extend": "~1.2.1",
+    "shortid": "~2.0.0"
   },
   "devDependencies": {
     "sugar-spec": "0.8.3"
