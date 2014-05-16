@@ -14,7 +14,7 @@
     "shortid": "~2.0.0"
   },
   "devDependencies": {
-    "sugar-spec": "0.8.3"
+    "sugar-spec": "0.8.8"
   },
   "main": "./lib",
   "repository": {
